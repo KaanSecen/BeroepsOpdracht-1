@@ -1,18 +1,22 @@
 ---
 ## **BeroepsOpdrachten**
 ---
-- [x] [Opdracht](https://www.example.com)
-- [x] [Opdracht](https://www.example.com)
-- [x] [Opdracht](https://www.example.com)
-- [x] [Opdracht](https://www.example.com)
-- [x] [Opdracht](https://www.example.com)
-- [x] [Opdracht](https://www.example.com)
-- [x] [Opdracht](https://www.example.com)
-- [x] [Opdracht](https://www.example.com)
-- [x] [Opdracht](https://www.example.com)
-- [x] [Opdracht](https://www.example.com)
-- [x] [Opdracht](https://www.example.com)
-- [x] [Opdracht](https://www.example.com)
+- [x] [ditbenik **(Python)**](https://github.com/KaanSecen/BeroepsOpdracht-1/blob/master/Opdracht%201/ditbenik.py)
+- [x] [Hello You **(Python)**](https://github.com/KaanSecen/BeroepsOpdracht-1/blob/master/Opdracht%201/Hello%20You.py)
+- [x] [VideoBeroepsopdracht **(Video)**](https://github.com/KaanSecen/BeroepsOpdracht-1/blob/master/Opdracht%201/VideoBeroepsopdracht.mp4)
+- [x] [Kaan Seçen Debriefing **(pdf)**](https://github.com/KaanSecen/BeroepsOpdracht-1/blob/master/Opdracht%201/Kaan%20Se%C3%A7en%20Debriefing.pdf)
+- [x] [Kaan Secen SD1Ab Nieuwkomer opdracht **(pdf)**](https://github.com/KaanSecen/BeroepsOpdracht-1/blob/master/Opdracht%202/Kaan%20Secen%20SD1Ab%20Nieuwkomer%20opdracht.pdf)
+- [x] [Onderzoek text-based kaan secen **(pdf)**](https://github.com/KaanSecen/BeroepsOpdracht-1/blob/master/Opdracht%202/Onderzoek%20text-based%20kaan%20secen.pdf)
+- [x] [Onderzoek Nieuwkomer-Khaled **(pdf)**](https://github.com/KaanSecen/BeroepsOpdracht-1/blob/master/Opdracht%203/Onderzoek%20Nieuwkomer%20KaanSecen.pdf)
+- [x] [Mircobit_geluid **(Video)**](https://github.com/KaanSecen/BeroepsOpdracht-1/blob/master/Opdracht%204/Mircobit_video.mp4)
+- [x] [mircobit_geluid **(Python)**](https://github.com/KaanSecen/BeroepsOpdracht-1/blob/master/Opdracht%204/mircobit_geluid.py)
+- [x] [Elevator pitch **(Powerpoint)**](https://github.com/KaanSecen/BeroepsOpdracht-1/blob/master/Opdracht%205/Elevator%20pitch.pptx)
+- [x] [FlowChartKeuzes_Nieuwkomer **(PNG)**](https://github.com/KaanSecen/BeroepsOpdracht-1/blob/master/Opdracht%205/FlowChartKeuzes.png)
+- [x] [Verhaallijn NieuwkomerAsya_METKEUZES **(pdf)**](https://github.com/KaanSecen/BeroepsOpdracht-1/blob/master/Opdracht%205/Verhaallijn%20NieuwkomerAsya_METKEUZES.pdf)
+- [x] [Verhaallijn_NieuwKomerAsya_ZONDERKEUZES **(pdf)**](https://github.com/KaanSecen/BeroepsOpdracht-1/blob/master/Opdracht%205/Verhaallijn_NieuwKomerAsya_ZONDERKEUZES.pdf)
+- [x] [HetVerhaalVanAsya **(Python)**](https://github.com/KaanSecen/BeroepsOpdracht-1/blob/master/Opdracht%206/HetVerhaalVanAsya.py)
+- [x] [TheeMircobitProject **(Python)**](https://github.com/KaanSecen/BeroepsOpdracht-1/blob/master/Opdracht%207/TheeMircobitProject.py)
+- [x] [MircobitTheevideo **(Video)**](https://github.com/KaanSecen/BeroepsOpdracht-1/blob/master/Opdracht%207/MircobitTheevideo.mp4)
 ---
 > Belangrijk: Je kan op **de tekst** klikken👍.
 ---
