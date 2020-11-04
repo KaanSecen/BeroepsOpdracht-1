@@ -311,7 +311,7 @@ while LasVerhaal == True:
     #? 31 CREDITS EINDE
     while Credits1_31 == True:
         while Credits2_31 == True:
-            #TODO Credits()
+            Credits()
             Credits2_31 = False
             quit()
     #TODO VAN 30 NAAR 32 HELEMAAL EINDE
@@ -329,13 +329,13 @@ while LasVerhaal == True:
         elif Keuze28 == "B" or Keuze28 == "b":
             print(style.RESET + "")
             os.system("cls")
+            Credits1_32 = True
         else:
             print("Geen Antwoord ontvangen.\n")
     while Credits1_32 == True:
         while Credits2_32 == True:
-            #TODO Credits()
+            Credits()
             Credits2_32 = False
             quit()
-
 #? --------------------------------------------------------------------------------------------------------------------------
 #? --------------------------------------------------------------------------------------------------------------------------

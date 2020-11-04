@@ -3,11 +3,6 @@ import os
 import sys
 import datetime
 import time
-import pygame
-
-pygame.mixer.init()
-os.system("")
-os.system("cls")
 
 #Kleur Codes
 class style():
@@ -24,11 +19,6 @@ class style():
 
 
 
-soundObj = pygame.mixer.Sound('typing.wav')
-soundObj3 = pygame.mixer.Sound('Maakeenkeuze.wav')
-#TODO EERSTE GELUID STUKJE
-soundObj2 = pygame.mixer.Sound('geluidE1KAB.wav')
-soundObj4 = pygame.mixer.Sound('VerhaalK1.wav')
 
 #Maak een Keuze Tekst
 def MaakeenKeuze():
@@ -69,26 +59,21 @@ def verhaalijnbegininfo():
     lijn1 = style.YELLOW + "Jaar: 1990\nLocatie: Ürgüp, Turkije\nNaam: Asya\nLeeftijd: 11 Jaar\n\n"
     lijn2 = style.UNDERLINE + style.YELLOW + "Je speelt in dit verhaal als Asya.\nMaak de keuzes voor haar goed.\n"
     #Geluiden
-    soundObj.play()
     #Typing Effect
     for char in lijn1:
         time.sleep(0.1)
         sys.stdout.write(char)
         sys.stdout.flush()
-    soundObj.stop()
     time.sleep(2)
-    soundObj.play()
     #TypingEffect
     for char in lijn2:
         time.sleep(0.1)
         sys.stdout.write(char)
         sys.stdout.flush()
-    soundObj.stop()
 
 
 #het eerste stuk van het verhaal
 def EersteKeuze():
-    soundObj2.play()
     lijn3 = style.GREEN + "Je woont in een klein dorpje in Turkije.\nJe hebt een moeilijke dag achter de rug gehad.\nJe komt van school naar huis.\nWanneer je thuiskomt is je vader opeens vertrokken.\nWat doe je?\n\n"
     keuze1A = style.UNDERLINE + style.CYAN + "A: Vragen aan je moeder waar je vader is?\n\n"
     keuze1B = style.UNDERLINE + style.RED + "B: Vragen aan je broertje waar je vader is?\n\n"
@@ -108,7 +93,6 @@ def EersteKeuze():
 
 #Van 1 Naar 3   
 def VerhaalK1():
-    soundObj4.play()
     os.system("cls")
     lijn5 = style.GREEN + "Je hebt A gekozen.\n"
     lijn6 = style.GREEN + "Je vraagt aan je moeder waar je vader is.\nJe moeder zegt dat je vader naar Nederland is vertrokken.\nWat doe je?\n\n"
