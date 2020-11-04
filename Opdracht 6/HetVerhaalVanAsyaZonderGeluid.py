@@ -23,7 +23,6 @@ class style():
 #Maak een Keuze Tekst
 def MaakeenKeuze():
     time.sleep(2)
-    soundObj3.play()
     lijn4 = style.UNDERLINE + style.GREEN + "Maak een Keuze.\n\n"
     for char in lijn4:
         time.sleep(0.1)
